@@ -1,8 +1,11 @@
-# React + Vite
+# Github Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About
 
-Currently, two official plugins are available:
+Github Explorer is a web application designed to help users explore and interact with Github repositories and user profiles. It provides a user-friendly interface for searching Github repositories, viewing detailed information about each repository, and accessing user profiles. Leveraging Github's public API, the app allows users to:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Search for Repositories:** Find repositories based on keywords.
+- **View Repository Details:** Access detailed information about specific repositories, including stars, forks, and descriptions.
+- **Explore User Profiles:** See detailed information about Github users, including their repositories.
+
+This app aims to make exploring Github's extensive ecosystem easier and more intuitive.
